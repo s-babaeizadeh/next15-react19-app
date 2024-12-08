@@ -1,4 +1,4 @@
-# **Next.js 15 with React.js 19**
+# **Building a Modern Web Application with Next.js 15 and React.js 19**
 
 ## *Overview*
 The application is built using Next.js 15, React 19, TypeScript, and Shadcn, which together provide a robust framework for modern web development. 
